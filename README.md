@@ -8,10 +8,10 @@ Play the classic game directly in your browser!
 
 ##  Project Structure
 Snake-Game/
-─ index.html # Main game file
-─ style.css # Styling for the game
-─ script.js # Game logic (JavaScript)
-─ README.md # Project documentation
+- index.html # Main game file
+- style.css # Styling for the game
+- script.js # Game logic (JavaScript)
+- README.md # Project documentation
 
 
 ##  Features
