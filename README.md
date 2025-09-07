@@ -8,10 +8,10 @@ Play the classic game directly in your browser!
 
 ##  Project Structure
 Snake-Game/
-│── index.html # Main game file
-│── style.css # Styling for the game
-│── script.js # Game logic (JavaScript)
-│── README.md # Project documentation
+─ index.html # Main game file
+─ style.css # Styling for the game
+─ script.js # Game logic (JavaScript)
+─ README.md # Project documentation
 
 
 ##  Features
@@ -33,7 +33,8 @@ Snake-Game/
 4. Avoid hitting the walls or yourself!  
 
 ##  Screenshots
-(Add some screenshots of your game here)  
+<img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/0b5c3418-e9e7-40c7-8f15-1ab3153b2bbe" />
+ 
 
 ##  Future Improvements
 - Add difficulty levels  
